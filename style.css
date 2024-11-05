@@ -1,0 +1,18 @@
+:root {
+    --color-dark: #091540;
+    --color-medeum: #1B2CC1;
+    --color-bland: #3D518C;
+    --color-bright: #7692FF;
+    --color-light: #ABD2FA;
+}
+
+* {
+    font-family: system-ui;
+    box-sizing: border-box;
+}
+
+img {
+    display: flex;
+    width:50%;
+    border:5px solid var(--color-medeum);
+}
